@@ -24,7 +24,14 @@ Check the input file. Should it contain .java at the end?
 I remove `.java` at the end when it works!!
 <img width="935" alt="image" src="https://github.com/ZhenchengLin/Lab5/assets/130115215/c308163d-ae20-48bd-a060-bda3890329e6">
 ### 3.
-I have git clone the need files in to my ieng6 remote server, then I set it up the same as the Scenario...
+I have git clone the need files in to my ieng6 remote server. 
 <img width="935" alt="image" src="https://github.com/ZhenchengLin/Lab5/assets/130115215/642fda19-cf2e-4c74-87d8-a655bc340ed8">
+Then I set it up the same as the Scenario by adding `.java` at the end of this `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests`
 
+The full code that trigger this bug is `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests.java`
+
+We use have to remove the `.java` at the end 
+
+## Part-2
+I think 15L is a course that is much more important while dealing with skills on coding. This course help a lot to understanding where are all the files are runing. In the same time we learn to use differnt fasting ways to code, also learn a lots form git. 
 
