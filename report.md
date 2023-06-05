@@ -19,5 +19,12 @@ When I trying to use terminal to run my file ArrayTests.java class.
 The input I put in is `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests.java`
 
 ### 1. "TA" respons
+Check the input file. Should it contain .java at the end?
+### 2. "TRYING" fixing it
+I remove `.java` at the end when it works!!
+<img width="935" alt="image" src="https://github.com/ZhenchengLin/Lab5/assets/130115215/c308163d-ae20-48bd-a060-bda3890329e6">
+### 3.
+I have git clone the need files in to my ieng6 remote server, then I set it up the same as the Scenario...
+<img width="935" alt="image" src="https://github.com/ZhenchengLin/Lab5/assets/130115215/642fda19-cf2e-4c74-87d8-a655bc340ed8">
 
 
